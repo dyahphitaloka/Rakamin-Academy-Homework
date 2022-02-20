@@ -6,4 +6,5 @@ Steps yang dilakukan :
 3. Data PreProcessing
 4. Feature Selection
 5. Machine learning model
-6. Feature importance
+6. Hyperparameter Tuning
+7. Feature importance
